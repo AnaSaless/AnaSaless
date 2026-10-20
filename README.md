@@ -21,7 +21,6 @@ Estudante de Ciência da Computação na PUCPR (2024 a 2028), de Curitiba, Paran
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | [remain-luxury](https://github.com/AnaSaless/remain-luxury) | Marketplace de moda de luxo de segunda mão, com catálogo, carrinho, pedidos e chat entre comprador e vendedor. Projeto em equipe. | React, Node.js, Express, MySQL |
-| [PJBL1004](https://github.com/AnaSaless/PJBL1004) | Sistema de gestão de disciplinas com CRUD completo. | React, Express, MySQL |
 | [Ra2-Grupo11](https://github.com/AnaSaless/Ra2-Grupo11) | Sistema de inventário com persistência em arquivo e auditoria de logs. Projeto em dupla. | Haskell |
 | [RecRA03Resolucao](https://github.com/AnaSaless/RecRA03Resolucao) | Tabela hash com encadeamento separado e análise experimental de três funções de hashing. Projeto em dupla. | Java |
 
