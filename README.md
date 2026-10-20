@@ -8,7 +8,6 @@ Estudante de Ciência da Computação na PUCPR (2024 a 2028), de Curitiba, Paran
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -21,7 +20,7 @@ Estudante de Ciência da Computação na PUCPR (2024 a 2028), de Curitiba, Paran
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | [remain-luxury](https://github.com/AnaSaless/remain-luxury) | Marketplace de moda de luxo de segunda mão, com catálogo, carrinho, pedidos e chat entre comprador e vendedor. Projeto em equipe. | React, Node.js, Express, MySQL |
-| [Ra2-Grupo11](https://github.com/AnaSaless/Ra2-Grupo11) | Sistema de inventário com persistência em arquivo e auditoria de logs. Projeto em dupla. | Haskell |
+| [thermoagro](https://github.com/AnaSaless/thermoagro) | Painel web para monitorar sensores e acionar a porta de um silo agrícola em tempo real, via MQTT, com histórico de leituras e área de administração. | Python, Flask, MQTT, SQLite |
 | [RecRA03Resolucao](https://github.com/AnaSaless/RecRA03Resolucao) | Tabela hash com encadeamento separado e análise experimental de três funções de hashing. Projeto em dupla. | Java |
 
 ## Idiomas
